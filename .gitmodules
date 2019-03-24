@@ -1,0 +1,4 @@
+[submodule "Zmakan-Technical-Solutions/hr_contract_localization"]
+	path = Zmakan-Technical-Solutions/hr_contract_localization
+	url = https://github.com/Zmakan-Technical-Solutions/hr_contract_localization.git
+	branch = 12.0
