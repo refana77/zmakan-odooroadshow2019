@@ -1,0 +1,12 @@
+[submodule "Zmakan-Technical-Solutions/l10n_qa_hr_contract"]
+	path = Zmakan-Technical-Solutions/l10n_qa_hr_contract
+	url = git@github.com:Zmakan-Technical-Solutions/l10n_qa_hr_contract.git
+	branch = 12.0
+[submodule "Zmakan-Technical-Solutions/l10n_qa_hr_payroll"]
+	path = Zmakan-Technical-Solutions/l10n_qa_hr_payroll
+	url = git@github.com:Zmakan-Technical-Solutions/l10n_qa_hr_payroll.git
+	branch = 12.0
+[submodule "Zmakan-Technical-Solutions/l10n_qa_hr_zmakan"]
+	path = Zmakan-Technical-Solutions/l10n_qa_hr_zmakan
+	url = git@github.com:Zmakan-Technical-Solutions/l10n_qa_hr_zmakan.git
+	branch = 12.0
